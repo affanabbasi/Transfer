@@ -1,0 +1,53 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1606531739
+<< nwell >>
+rect -2166 -404 2166 404
+<< nsubdiff >>
+rect -2130 334 -2034 368
+rect 2034 334 2130 368
+rect -2130 272 -2096 334
+rect 2096 272 2130 334
+rect -2130 -334 -2096 -272
+rect 2096 -334 2130 -272
+rect -2130 -368 -2034 -334
+rect 2034 -368 2130 -334
+<< nsubdiffcont >>
+rect -2034 334 2034 368
+rect -2130 -272 -2096 272
+rect 2096 -272 2130 272
+rect -2034 -368 2034 -334
+<< poly >>
+rect -2000 222 2000 238
+rect -2000 188 -1984 222
+rect 1984 188 2000 222
+rect -2000 165 2000 188
+rect -2000 -188 2000 -165
+rect -2000 -222 -1984 -188
+rect 1984 -222 2000 -188
+rect -2000 -238 2000 -222
+<< polycont >>
+rect -1984 188 1984 222
+rect -1984 -222 1984 -188
+<< npolyres >>
+rect -2000 -165 2000 165
+<< locali >>
+rect -2130 334 -2034 368
+rect 2034 334 2130 368
+rect -2130 272 -2096 334
+rect 2096 272 2130 334
+rect -2000 188 -1984 222
+rect 1984 188 2000 222
+rect -2000 -222 -1984 -188
+rect 1984 -222 2000 -188
+rect -2130 -334 -2096 -272
+rect 2096 -334 2130 -272
+rect -2130 -368 -2034 -334
+rect 2034 -368 2130 -334
+<< properties >>
+string gencell sky130_fd_pr__res_generic_po
+string FIXED_BBOX -2113 -351 2113 351
+string parameters w 20 l 1.650 m 1 nx 1 wmin 0.330 lmin 1.650 rho 48.2 val 3.976 dummy 0 dw 0.0 term 0.0 sterm 0.0 caplen 0.4 snake 0 guard 1 glc 1 grc 1 gtc 1 gbc 1 roverlap 0 endcov 100 full_metal 1
+string library sky130
+<< end >>

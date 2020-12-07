@@ -1,0 +1,77 @@
+magic
+tech sky130A
+timestamp 1606531739
+<< pwell >>
+rect -816 -799 816 799
+<< psubdiff >>
+rect -798 764 -750 781
+rect 750 764 798 781
+rect -798 733 -781 764
+rect 781 733 798 764
+rect -798 -764 -781 -733
+rect 781 -764 798 -733
+rect -798 -781 -750 -764
+rect 750 -781 798 -764
+<< psubdiffcont >>
+rect -750 764 750 781
+rect -798 -733 -781 733
+rect 781 -733 798 733
+rect -750 -781 750 -764
+<< xpolycontact >>
+rect -733 500 -698 716
+rect -733 -716 -698 -500
+rect -574 500 -539 716
+rect -574 -716 -539 -500
+rect -415 500 -380 716
+rect -415 -716 -380 -500
+rect -256 500 -221 716
+rect -256 -716 -221 -500
+rect -97 500 -62 716
+rect -97 -716 -62 -500
+rect 62 500 97 716
+rect 62 -716 97 -500
+rect 221 500 256 716
+rect 221 -716 256 -500
+rect 380 500 415 716
+rect 380 -716 415 -500
+rect 539 500 574 716
+rect 539 -716 574 -500
+rect 698 500 733 716
+rect 698 -716 733 -500
+<< ppolyres >>
+rect -733 -500 -698 500
+rect -574 -500 -539 500
+rect -415 -500 -380 500
+rect -256 -500 -221 500
+rect -97 -500 -62 500
+rect 62 -500 97 500
+rect 221 -500 256 500
+rect 380 -500 415 500
+rect 539 -500 574 500
+rect 698 -500 733 500
+<< locali >>
+rect -798 764 -750 781
+rect 750 764 798 781
+rect -798 733 -781 764
+rect 781 733 798 764
+rect -798 -764 -781 -733
+rect 781 -764 798 -733
+rect -798 -781 -750 -764
+rect 750 -781 798 -764
+<< res0p35 >>
+rect -734 -501 -697 501
+rect -575 -501 -538 501
+rect -416 -501 -379 501
+rect -257 -501 -220 501
+rect -98 -501 -61 501
+rect 61 -501 98 501
+rect 220 -501 257 501
+rect 379 -501 416 501
+rect 538 -501 575 501
+rect 697 -501 734 501
+<< properties >>
+string gencell sky130_fd_pr__res_high_po_0p35
+string FIXED_BBOX -789 -772 789 772
+string parameters w 0.350 l 10 m 1 nx 10 wmin 0.350 lmin 0.50 rho 319.8 val 9.246k dummy 0 dw 0.0 term 19.188 sterm 0.0 caplen 0 guard 1 glc 1 grc 1 gtc 1 gbc 1 compatible {sky130_fd_pr__res_high_po_0p35  sky130_fd_pr__res_high_po_0p69 sky130_fd_pr__res_high_po_1p41  sky130_fd_pr__res_high_po_2p85 sky130_fd_pr__res_high_po_5p73} full_metal 1 wmax 0.350
+string library sky130
+<< end >>
